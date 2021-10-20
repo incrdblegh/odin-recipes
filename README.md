@@ -1,0 +1,2 @@
+By making this project I practiced my knowledge on HTML tags, including all the basic tags (doctype, html, head, body, title, meta), and also h1-6, a href, img, ul, ol, li etc. I learned and practiced how to add links and images to the document. 
+Well I guess it's time to practice my knowledge on English yikes
